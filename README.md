@@ -1,5 +1,5 @@
 # If This And This Then That
-IfThisAndThisThenThat (iftattt) service provides an extended functionality to the one offered by IfThisThenThan (https://ifttt.com/). Iftattt allows you to concatenate different channels to trigger an action. For instance, *IF* you are not at home *AND* you take a picture with your phone, upload it to your could service account.
+IfThisAndThisThenThat (iftattt) service provides an extended functionality to the one offered by IfThisThenThan (https://ifttt.com/). Iftattt allows you to concatenate different channels to trigger an action. For instance, *IF* you are not at home *AND* you take a picture with your phone, upload it to your cloud service account.
 
 This service is more focused for developers or DIY lovers, since the action triggered (the That) is an http request you have previously registered.
 
